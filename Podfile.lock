@@ -1,0 +1,20 @@
+PODS:
+  - CocoaSecurity (1.2.4)
+  - JKBigInteger (0.0.1)
+
+DEPENDENCIES:
+  - CocoaSecurity
+  - JKBigInteger (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaSecurity
+    - JKBigInteger
+
+SPEC CHECKSUMS:
+  CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+  JKBigInteger: 7f3894ca331bf271a8e2ee0d5329707ca6eda6e0
+
+PODFILE CHECKSUM: a1d4c501bc595921d1547f1322f3cd091ad940a6
+
+COCOAPODS: 1.5.3
